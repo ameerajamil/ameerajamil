@@ -11,7 +11,7 @@ Computer Science student at UiTM interested in software engineering and AI.
 C++, python, Java
 
 ## Projects
-- AI-Assisted Quranic Memorization and Support System (https://github.com/ameerajamil/AI-Assisted Quranic Memorization and Support System): To help struggled primary school children to memorise quranic verses, stay engaged, and connect verse meanings
+- AI-Assisted Quranic Memorization and Support System (https://github.com/ameerajamil/AI-Assisted-Quranic-Memorization-and-Support-System): To help struggled primary school children to memorise quranic verses, stay engaged, and connect verse meanings
 
 ## Contact
 - LinkedIn: (https://my.linkedin.com/in/ameera-jamil-8526b7413?trk=people-guest_people_search-card)
